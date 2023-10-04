@@ -1,1 +1,1 @@
-# my-react-typescript-package
+# wns-counter-lib
